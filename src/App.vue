@@ -5,7 +5,7 @@
   </div>
 </template>
 
-<script>
+<script scoped>
 import Calculator from "./main/Calculator.vue";
 export default {
     components: {
@@ -25,6 +25,6 @@ body{
     align-items: center;
     text-align: center;
     color: #fff;
-    background-color: rgb(0, 0, 255) !important;
+    background-color: #c0c0cd !important;
 }
 </style> 

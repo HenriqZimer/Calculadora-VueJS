@@ -37,6 +37,7 @@ export default {
     border: none;
     border-right: var(--border-button);
     border-bottom: var(--border-button);
+    background-color: antiquewhite;
 }
 .button:active{
     background-color: #ccc;
